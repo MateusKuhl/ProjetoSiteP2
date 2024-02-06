@@ -1,4 +1,4 @@
-Projeto desnevolvido por:
+Projeto desenvolvido por:
 - Gustavo Morale
 - Jefferson Della Coleta
 - Mateus Bacce Kuhl
